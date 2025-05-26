@@ -34,5 +34,6 @@ class Student {
         s1.addCourse("Java", 80);
         s1.displayRegisteredCourses();
         s1.displayLowScores();
+        System.out.println("---------------------------------");
     }
 }
