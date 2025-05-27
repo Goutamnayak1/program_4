@@ -1,4 +1,3 @@
-package gautam.program4;
 import java.util.*;
 
 class Student {
